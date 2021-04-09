@@ -1,3 +1,7 @@
+// convert_temp.go
+// converte temperatura em Fahrenheit para Celcius
+// arataca89@gmail.com
+// 20210409
 package main
 
 import "fmt"

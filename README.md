@@ -5,4 +5,4 @@
 - feet_to_meter.go - converte pés em metros
 ## 20210411
 - arquivos existentes no repositório passados no comando gofmt
-- a partir desta data todos os arquivos são passados  pelo comando gofmt
+- a partir desta data todos os arquivos serão passados  pelo comando gofmt

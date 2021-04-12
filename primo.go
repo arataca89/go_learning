@@ -21,7 +21,7 @@ func main() {
 		}
 	}
 
-	if isprime == true {
+	if isprime {
 		fmt.Println("O número", nr, "é primo")
 	} else {
 		fmt.Println("O número", nr, "não é primo")

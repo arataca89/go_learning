@@ -6,3 +6,5 @@
 ## 20210411
 - arquivos existentes no repositório passados no comando gofmt
 - a partir desta data todos os arquivos serão passados  pelo comando gofmt
+## 20210412
+- echo versões de 1 a 6 - diversas implementações do comando "echo"

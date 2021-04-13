@@ -86,3 +86,5 @@ func printFile(f *os.File) {
 // https://golang.org/pkg/bufio/#Scanner.Scan
 // https://golang.org/pkg/bufio/#Scanner.Text
 //
+// (DONOVAN e KERNIGHAN, 2017)
+//

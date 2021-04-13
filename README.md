@@ -2,6 +2,7 @@
 ## 20210413
 - primo2.go - implementa função que verifica se um número é primo
 - cat1.go - implementa a versão 1 do comando cat
+- args1.go - exibe os argumentos da linha de comando
 ## 20210412
 - echo versões de 1 a 6 - diversas implementações do comando "echo"
 - primo1.go - verifica se um número é primo

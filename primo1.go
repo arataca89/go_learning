@@ -1,4 +1,4 @@
-// primo.go
+// primo1.go
 // verifica se um número é primo
 // arataca89@gmail.com
 // 20210412

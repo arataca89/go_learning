@@ -30,7 +30,7 @@ func main() {
 	fmt.Println("nr:", *intFlag)
 	fmt.Println("bol:", *boolFlag)
 
-	// func Args() []string - retorna os argumentos de linha de
+	// flag.Args() []string - retorna os argumentos de linha de
 	// comando que não são flags
 	fmt.Println("args:", flag.Args())
 }

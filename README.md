@@ -1,4 +1,6 @@
 # go_learning
+## 20210415
+- flags.go - demonstra o uso de funções do pacote "flag"
 ## 20210413
 - primo2.go - implementa função que verifica se um número é primo
 - cat1.go - implementa a versão 1 do comando cat

@@ -4,7 +4,7 @@
 //
 // func Count(s, substr string) int
 //
-// Retorna o número de ocorrências de string em s.
+// Retorna o número de ocorrências de substr em s.
 // Se substr for "" retorna 1 + o número de Unicode code points em s.
 //
 // Fonte: https://golang.org/pkg/strings/

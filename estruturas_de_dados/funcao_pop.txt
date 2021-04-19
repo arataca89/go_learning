@@ -1,0 +1,33 @@
+arataca89@gmail.com
+20210418
+
+PILHA Função pop()
+
+neste caso a estrutura de item da pilha tem dois elementos:
+- o dado a ser armazenado
+- um ponteiro para o próximo item da pilha
+
+1. Se o topo da pilha tem valor nulo retorne valor nulo (pilha vazia)
+2. Se o topo da pilha não tem valor nulo:
+	2.1 armazene o endereço do topo da pilha em uma variável
+	2.2 aponte o ponteiro de próximo item para o topo da pilha
+	2.3 configure o ponteiro de proximo item da variável usada em 2.1 para nulo
+	2.4 decremente a quantidade de itens da pilha
+	2.5 retorne o endereço da variável usada em 2.1
+	
+	
+Exemplo de código em Go:
+	
+func pop() *itemStack {
+	if top == nil {
+		return nil
+	}
+
+	var ptr = top
+	top = top.next
+
+	ptr.next = nil
+	size--
+
+	return ptr
+}

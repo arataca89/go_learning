@@ -1,4 +1,6 @@
 # Estruturas de Dados
+## 20210423
+- StringQueueslice.go - implementa uma fila de string usando slice
 ## 20210418
 - StringStack.go - implementa uma pilha de strings
 - funcao_push.txt - algoritmo da função push()

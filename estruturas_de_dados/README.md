@@ -1,4 +1,6 @@
 # Estruturas de Dados
+## 20210426
+- StringQueueStruct.go - Implementa uma fila de strings usando um tipo definido pelo usuário e ponteiros.
 ## 20210423
 - StringQueueSlice.go - implementa uma fila de strings usando o tipo slice
 ## 20210420

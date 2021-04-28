@@ -1,4 +1,4 @@
-// Gera números aleatórios entre um um valor mínimo e um valor máximo
+// Gera números aleatórios entre um valor mínimo e um valor máximo
 // arataca89@gmail.com
 // 20210428
 

@@ -1,6 +1,9 @@
 // Gera números aleatórios entre um valor mínimo e um valor máximo
 // arataca89@gmail.com
 // 20210428
+// Referências:
+// https://golang.org/pkg/math/rand/
+// https://golang.cafe/blog/golang-random-number-generator.html
 
 package main
 

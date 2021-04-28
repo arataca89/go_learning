@@ -1,4 +1,6 @@
 # go_learning
+## 20210428
+- randInt.go - gera números aleatórios entre um valor mínimo e um valor máximo
 ## 20210415
 - flags.go - demonstra o uso de funções do pacote "flag"
 ## 20210413

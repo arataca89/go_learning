@@ -1,7 +1,7 @@
 # Estruturas de Dados
 ## 20210504
 - list.go - container/list uso básico
-- list_versus_slice.go - compara o uso de list versus o uso do slice
+- list_versus_slice.go - compara o uso de list versus o uso de slice
 ## 20210426
 - StringQueueStruct.go - Implementa uma fila de strings usando um tipo definido pelo usuário e ponteiros
 ## 20210423

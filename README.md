@@ -1,4 +1,6 @@
 # go_learning
+## 20210505
+- errorf/errorf.go - exemplo de função que retorna uma mensagem de erro formatada
 ## 20210428
 - randInt.go - gera números aleatórios entre um valor mínimo e um valor máximo
 ## 20210415

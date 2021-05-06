@@ -1,6 +1,7 @@
 # go_learning
 ## 20210506
 - sort/sort1/sort1.go - demonstra o uso básico do pacote sort para ordenar tipos definidos pelo usuário
+- ponteiros1/ponteiros1.go - demonstra o uso básico de ponteiros
 ## 20210505
 - errorf/errorf.go - exemplo de função que retorna uma mensagem de erro formatada
 ## 20210428

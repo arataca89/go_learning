@@ -3,6 +3,7 @@
 - sort/sort1/sort1.go - demonstra o uso básico do pacote sort para ordenar tipos definidos pelo usuário
 - ponteiros/ponteiros1.go - demonstra o uso básico de ponteiros
 - ponteiros/ponteiros2.go - mostra a diferença entre a passagem por valor e a passagem por referência.
+- estruturas_de_dados/struct/struct1.go - demonstra como criar estruturas de dados definidas pelo usuário e como declarar variáveis do tipo da nova estrutura criada.
 
 ## 20210505
 - errorf/errorf.go - exemplo de função que retorna uma mensagem de erro formatada

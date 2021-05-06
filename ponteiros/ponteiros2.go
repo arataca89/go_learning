@@ -1,6 +1,6 @@
 /*
 O pacote ponteiros2 mostra a diferença entre a passagem por valor
-e a passagem por referência
+e a passagem por referência.
 
 Na passagem por valor uma cópia do dado é passada para a função
 e o valor original não é alterado.const

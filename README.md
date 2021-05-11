@@ -1,4 +1,6 @@
 # go_learning
+## 20210511
+- estruturas_de_dados/stackint1/stackint.go - Implementação de uma pilha estática de inteiros
 ## 20210506
 - sort/sort1/sort1.go - demonstra o uso básico do pacote sort para ordenar tipos definidos pelo usuário
 - ponteiros/ponteiros1.go - demonstra o uso básico de ponteiros
